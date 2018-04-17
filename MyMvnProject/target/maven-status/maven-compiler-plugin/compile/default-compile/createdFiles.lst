@@ -1,0 +1,7 @@
+lt\vu\mif\entities\TeamMember.class
+lt\vu\mif\usecases\MembersInTheTeam.class
+lt\vu\mif\persistence\Resources.class
+lt\vu\mif\persistence\TeamsDAO.class
+lt\vu\mif\entities\Team.class
+lt\vu\mif\usecases\Teams.class
+lt\vu\mif\persistence\TeamMembersDAO.class
